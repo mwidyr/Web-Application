@@ -1,19 +1,20 @@
 package com.duxina.webtest.model;
 
+
 public class User {
     private Integer id;
     private String name;
     private Integer age;
     private String location;
 
+    public User() {
+
+    }
     public User(Integer id, String name, Integer age, String location) {
         this.id = id;
         this.name = name;
         this.age = age;
         this.location = location;
-    }
-
-    public User() {
     }
 
     public Integer getId() {

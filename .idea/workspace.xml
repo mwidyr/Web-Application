@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74096c9d-4630-4c6a-bc5f-7b7e305984cb" name="Default Changelist" comment="" />
+    <list default="true" id="74096c9d-4630-4c6a-bc5f-7b7e305984cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duxina/webtest/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duxina/webtest/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/duxina/webtest/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/duxina/webtest/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/duxina/webtest/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/duxina/webtest/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/duxina/webtest/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/duxina/webtest/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/duxina/webtest/service/UserDaoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/duxina/webtest/service/UserDaoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/duxina/webtest/controller/UserControllerTest$UserControllerTestContextConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/duxina/webtest/controller/UserControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/duxina/webtest/controller/UserControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webtest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/webtest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webtest-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/webtest-1.0-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,50 +45,50 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="332" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="13">
+              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/SwaggerConfig.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+            <state relative-caret-position="214">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/WebTestApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/HelloWorldController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding>
                 <element signature="e#399#400#0" expanded="true" />
                 <element signature="e#424#425#0" expanded="true" />
@@ -101,45 +122,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/duxina/webtest/controller/UserControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="187">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -154,20 +145,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/WebTestApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/WebTestApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/model/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/HelloWorldController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/model/User.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/duxina/webtest/controller/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -195,10 +187,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="993" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1053" />
+    <option name="x" value="-12" />
+    <option name="width" value="1938" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,42 +197,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="webtest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -249,8 +241,8 @@
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -258,27 +250,51 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560243136125" />
@@ -298,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserControllerTest">
+  <component name="RunManager" selected="JUnit.UserControllerTest.deleteUser">
     <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="webtest" />
       <extension name="coverage">
@@ -310,6 +326,38 @@
       <option name="PACKAGE_NAME" value="com.duxina.webtest.controller" />
       <option name="MAIN_CLASS_NAME" value="com.duxina.webtest.controller.UserControllerTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duxina.webtest.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.duxina.webtest.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.duxina.webtest.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duxina.webtest.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.duxina.webtest.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.duxina.webtest.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -330,7 +378,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserControllerTest.getByIdException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserControllerTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="webtest" />
       <extension name="coverage">
         <pattern>
@@ -340,7 +388,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.duxina.webtest.controller" />
       <option name="MAIN_CLASS_NAME" value="com.duxina.webtest.controller.UserControllerTest" />
-      <option name="METHOD_NAME" value="getByIdException" />
+      <option name="METHOD_NAME" value="saveUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -355,8 +403,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserControllerTest.deleteUser" />
+        <item itemvalue="JUnit.UserControllerTest.saveUser" />
         <item itemvalue="JUnit.UserControllerTest" />
-        <item itemvalue="JUnit.UserControllerTest.getByIdException" />
+        <item itemvalue="JUnit.UserControllerTest.getAll" />
         <item itemvalue="JUnit.UserControllerTest.getById" />
       </list>
     </recent_temporary>
@@ -373,49 +423,50 @@
       <updated>1560224165529</updated>
       <workItem from="1560224169990" duration="1768000" />
       <workItem from="1560225991338" duration="9723000" />
+      <workItem from="1560746773904" duration="14368000" />
+      <workItem from="1560830333221" duration="16069000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserControllerTest_getById - 2019.06.11 at 13h 20m 17s.xml">
+    <history-entry file="UserControllerTest_getById - 2019.06.18 at 14h 31m 58s.xml">
       <configuration name="UserControllerTest.getById" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserControllerTest_getById - 2019.06.11 at 13h 20m 23s.xml">
-      <configuration name="UserControllerTest.getById" configurationId="JUnit" />
+    <history-entry file="UserControllerTest_getAll - 2019.06.18 at 14h 36m 10s.xml">
+      <configuration name="UserControllerTest.getAll" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserControllerTest_getById - 2019.06.11 at 13h 20m 50s.xml">
-      <configuration name="UserControllerTest.getById" configurationId="JUnit" />
+    <history-entry file="UserControllerTest_saveUser - 2019.06.18 at 14h 53m 13s.xml">
+      <configuration name="UserControllerTest.saveUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserControllerTest_getById - 2019.06.11 at 13h 21m 36s.xml">
-      <configuration name="UserControllerTest.getById" configurationId="JUnit" />
+    <history-entry file="UserControllerTest_deleteUser - 2019.06.18 at 14h 55m 21s.xml">
+      <configuration name="UserControllerTest.deleteUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserControllerTest_getByIdException - 2019.06.11 at 13h 22m 02s.xml">
-      <configuration name="UserControllerTest.getByIdException" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_getByIdException - 2019.06.11 at 13h 22m 19s.xml">
-      <configuration name="UserControllerTest.getByIdException" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_getById - 2019.06.11 at 13h 22m 32s.xml">
-      <configuration name="UserControllerTest.getById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest - 2019.06.11 at 13h 22m 51s.xml">
+    <history-entry file="UserControllerTest - 2019.06.18 at 14h 56m 45s.xml">
       <configuration name="UserControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserControllerTest_getByIdException - 2019.06.11 at 13h 23m 31s.xml">
-      <configuration name="UserControllerTest.getByIdException" configurationId="JUnit" />
+    <history-entry file="UserControllerTest_saveUser - 2019.06.18 at 15h 04m 54s.xml">
+      <configuration name="UserControllerTest.saveUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserControllerTest - 2019.06.11 at 13h 24m 59s.xml">
-      <configuration name="UserControllerTest" configurationId="JUnit" />
+    <history-entry file="UserControllerTest_deleteUser - 2019.06.18 at 15h 05m 00s.xml">
+      <configuration name="UserControllerTest.deleteUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_deleteUser - 2019.06.18 at 15h 07m 51s.xml">
+      <configuration name="UserControllerTest.deleteUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_saveUser - 2019.06.18 at 15h 07m 59s.xml">
+      <configuration name="UserControllerTest.saveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_deleteUser - 2019.06.18 at 15h 22m 28s.xml">
+      <configuration name="UserControllerTest.deleteUser" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11491000" />
+    <option name="totallyTimeSpent" value="41928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18206973" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21862349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -423,36 +474,40 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.32867134" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49878544" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32982844" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32982844" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32955465" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.32982844" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/WebTestApplication.java" />
@@ -473,39 +528,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/duxina/webtest/controller/UserControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="221">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/WebTestApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="102">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/duxina/webtest/controller/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding>
             <element signature="e#399#400#0" expanded="true" />
             <element signature="e#424#425#0" expanded="true" />
@@ -527,32 +604,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/HelloWorldController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/service/UserDaoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/WebTestApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/duxina/webtest/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        <state relative-caret-position="404">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -561,15 +628,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="13">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>

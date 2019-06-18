@@ -1,6 +1,6 @@
-com/duxina/webtest/SwaggerConfig.class
-com/duxina/webtest/service/UserDaoService.class
-com/duxina/webtest/controller/HelloWorldController.class
-com/duxina/webtest/WebTestApplication.class
-com/duxina/webtest/controller/UserController.class
-com/duxina/webtest/model/User.class
+com\duxina\webtest\controller\UserController.class
+com\duxina\webtest\service\UserDaoService.class
+com\duxina\webtest\WebTestApplication.class
+com\duxina\webtest\model\User.class
+com\duxina\webtest\SwaggerConfig.class
+com\duxina\webtest\controller\HelloWorldController.class
